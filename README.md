@@ -4,6 +4,7 @@ This is a step-by-step, practical workshop to prepare research R code and data f
 
 ## Prerequisites
 
+* Have R code **that runs** + the data it runs on
 * Encapsulate all files within one directory
 * Separate code and data into folders named "code" and "data"
 * Create GitHub account and upload code to GitHub
