@@ -1,7 +1,7 @@
 ---
 title: "Organizing your files"
-teaching: 5
-exercises: 20
+teaching: 5 mins
+exercises: 20 mins
 questions:
 - "How do we organize our data and code in preparation for publication?"
 objectives:
