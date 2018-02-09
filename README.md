@@ -1,6 +1,3 @@
-# BYOCode
-Hands-on, step-by-step workshop on to prepare your research code for a computationally reproducible publication. In this early phase of curriculum development, we will focus on sharing R code although participants may bring other code. 
-
 # Preparing your data and code for computationally reproducible publication: A hands-on, BYOCode workshop
 
 This is a step-by-step, practical workshop to prepare research R code and data for computationally reproducible publication. These lessons can be taught in 3 hours if the instructor:student ratio is high. The workshop starts with some brief introductory information about computational reproducibility, but the bulk of the workshop is guided work on participant code and data. The basic best practices for publishing code and data are covered, and participants move through organizing their files, creating a codebook, preparing their code for reuse, creating a README, documentation, and submitting their code and data to share. 
