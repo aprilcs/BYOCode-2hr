@@ -1,5 +1,5 @@
 ---
-title: "Document your research for reuse"
+title: "Share your data and code"
 teaching: 10
 exercises: 20
 questions:
@@ -9,6 +9,6 @@ objectives:
 - "Submit your code and data for publishing on Code Ocean."
 keypoints:
 - "There are many tools and platforms for sharing code and data."  
-- "Include essential metadata."
-- "Choose a licence."
+- "Sharing a container rather than just code and data improves reproducibility."
+- "New tools can make configuring a container for research efficient."
 ---
