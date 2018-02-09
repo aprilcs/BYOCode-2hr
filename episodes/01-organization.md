@@ -1,6 +1,6 @@
 ---
 title: "Organizing your files"
-teaching: 10
+teaching: 5
 exercises: 20
 questions:
 - "How do we organize our data and code in preparation for publication?"
@@ -11,3 +11,9 @@ keypoints:
 - "Separate code, data, and results."  
 - "Save results explicitly."  
 ---
+
+Use one directory for one project
+Using one directory makes it easier to find everything.
+Sharing your project is easier as you can zip your directory.
+You can zip the entire directory and save with the date in the name as a way of documenting changes and versions over time.
+
