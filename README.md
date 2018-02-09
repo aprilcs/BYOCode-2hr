@@ -4,11 +4,10 @@ This is a step-by-step, practical workshop to prepare research R code and data f
 
 ## Prerequisites
 
-* 
 * Encapsulate all files within one directory
 * Separate code and data into folders named "code" and "data"
 * Create GitHub account and upload code to GitHub
-* To take advantage of the BYOCode aspect, you should have R code **that runs** + the data it runs on. *Feel free to come if you don't have code - you may follow along with example code and data.*
+* To take advantage of the BYOCode aspect, you should bring R code of your own **that runs** + the data it runs on. *Feel free to come if you don't have code - you may follow along with example code and data.*
 
 ## Topics
 
