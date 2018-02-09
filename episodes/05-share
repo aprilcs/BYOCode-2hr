@@ -1,0 +1,14 @@
+---
+title: "Document your research for reuse"
+teaching: 10
+exercises: 20
+questions:
+- "How can I share code and data reproducibily?"
+objectives:
+- "Describe possible tools for publishing code and data."
+- "Submit your code and data for publishing on Code Ocean."
+keypoints:
+- "There are many tools and platforms for sharing code and data."  
+- "Include essential metadata."
+- "Choose a licence."
+---
