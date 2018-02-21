@@ -1,7 +1,7 @@
 ---
 title: "Prepare your data for sharing"
-teaching: 10 
-exercises: 20
+teaching: 5 
+exercises: 10
 questions:
 - "How do we communication important information about our data?"
 objectives:
