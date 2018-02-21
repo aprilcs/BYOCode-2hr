@@ -1,7 +1,7 @@
 ---
 title: "Essential information about computational reproducibility"
 teaching: 10 mins
-exercises: 5 mins
+exercises: N/A
 questions:
 - "What is computational reproducibility?"
 objectives:
