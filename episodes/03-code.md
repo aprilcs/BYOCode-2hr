@@ -1,7 +1,7 @@
 ---
 title: "Prepare your code for sharing"
 teaching: 10
-exercises: 25
+exercises: 20
 questions:
 - "How do we prepare our code for sharing?"
 objectives:
