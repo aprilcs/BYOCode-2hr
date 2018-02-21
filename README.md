@@ -35,4 +35,4 @@ April Clyburne-Sherin is an epidemiologist, methodologist, and expert in open sc
 
 ## Questions
 
-If you have any questions or feedback, please open an issue or contact April Clyburne-Sherin ([april@codeocean.com](mailto:april@codeocean.com).
+If you have any questions or feedback, please open an issue or contact April Clyburne-Sherin ([april@codeocean.com](mailto:april@codeocean.com)).
