@@ -6,7 +6,8 @@ questions:
 - "How do we organize our data and code in preparation for publication?"
 objectives:
 - "Describe best practices for file organization."
-- "Organize your research to separate data, code, and results."
+- "Centralize your research into one repository according to best practices."
+- "Learn how to separate data, code, and results."
 keypoints:
 - "Create one repository or directory that holds all related research files." 
 - "Organize your research to separate data, code, and results."
