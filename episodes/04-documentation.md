@@ -1,6 +1,6 @@
 ---
 title: "Document your research for reuse"
-teaching: 10
+teaching: 5
 exercises: 10
 questions:
 - "What information must I include for reuse?"
