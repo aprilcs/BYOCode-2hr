@@ -1,7 +1,7 @@
 ---
 title: "Share your data and code"
 teaching: 10
-exercises: 25
+exercises: 20
 questions:
 - "How can I share code and data reproducibily?"
 objectives:
